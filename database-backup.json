@@ -1,0 +1,90 @@
+{
+  "movies": [
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142-E4848C147243",
+      "title": "Top Gun Maverick",
+      "description": "ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis",
+      "categoryId": 2,
+      "img": "https://theatrgwaun.com/wp-content/uploads/2022/05/top-gun-maverick-2022-03-400x400.jpg",
+      "price": 15.99
+    },
+    {
+      "id": "D23A657F-CBEC-9639-2E85-7CA56B098603",
+      "title": "Deadpool 2",
+      "description": "luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos",
+      "categoryId": 1,
+      "img": "https://i.pinimg.com/474x/02/02/90/020290763bebb363327d986ac6f502e6.jpg",
+      "price": 9.99
+    },
+    {
+      "id": "12A4CD9E-F969-7106-0E70-A8214ED12111",
+      "title": "The Hunger Games",
+      "description": "Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
+      "categoryId": 2,
+      "img": "https://media1.popsugar-assets.com/files/thumbor/w9m3AYsrgaG8SD8oTWKq78A2n6A/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2011/12/50/4/192/1922283/9b9c6dc75de45d59_HGPosterthumb/i/Hunger-Games-Movie-Poster-Katniss-Peeta.jpg",
+      "price": 5.99
+    },
+    {
+      "id": "5F7922A2-19DB-CAD4-4291-1B137C44D066",
+      "title": "Doctor Strange",
+      "description": "tellus sem mollis dui, in sodales elit erat vitae risus. Duis a mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat",
+      "categoryId": 1,
+      "img": "https://downloadhub.today/wp-content/uploads/2022/05/04302022185559n57.jpg",
+      "price": 19.99
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC780",
+      "title": "Noah",
+      "description": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "categoryId": 2,
+      "img": "https://i.pinimg.com/474x/a3/95/2d/a3952d832cbd5b124b7f073991db218d.jpg",
+      "price": 7.99
+    },
+    {
+      "id": "9DB881E2-10C5-C379-E7A3-1C5836853892",
+      "title": "Gladiator",
+      "description": "vestibulum massa rutrum magna. Cras convallis convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum. Fusce dolor quam, elementum at, egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et",
+      "categoryId": 2,
+      "img": "https://showmax.akamaized.net/i/6726dd13-263c-4d7e-bb6b-b2741598fac5/overlay=eyJpbWFnZSI6ICIyZjY2MWFiMy03N2JjLTQ2ZTgtOTlhZi1lY2EzZTM1ODVlZTkiLCAicG9zaXRpb24iOiAzLCAic2F0dXJhdGlvbiI6IDEwMCwgInNjYWxlIjogMzMsICJvcGFjaXR5IjogMTAwLCAidiI6IDF9/400x",
+      "price": 4.99
+    },
+    {
+      "id": "E9522542-AB55-9279-A13C-03645AE88D28",
+      "title": "Alien",
+      "description": "egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia",
+      "categoryId": 2,
+      "img": "https://pbs.twimg.com/profile_images/452673604094664704/GB8t_Aqk_400x400.jpeg",
+      "price": 5.99
+    },
+    {
+      "id": "25D5DF9E-91AA-0358-D7DA-A70C6C448F2A",
+      "title": "Bullet Train",
+      "description": "erat vel pede blandit congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas lacinia. Sed congue, elit sed consequat auctor, nunc nulla vulputate dui, nec tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam vitae diam.",
+      "categoryId": 3,
+      "img": "https://secureservercdn.net/166.62.112.107/u6i.8e7.myftpupload.com/wp-content/uploads/2022/08/movie-bullet.png?time=1660140084",
+      "price": 19.99
+    },
+    {
+      "title": "Terminator 2",
+      "categoryId": 2,
+      "price": 5,
+      "img": "https://cdn.tutsplus.com/cdn-cgi/image/width=400/psd/uploads/2013/05/0866_James_White_Preview400.jpg",
+      "description": "ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis",
+      "id": "og5yXWO"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Fantasy"
+    },
+    {
+      "id": 2,
+      "title": "Action"
+    },
+    {
+      "id": 3,
+      "title": "Comedy"
+    }
+  ]
+}
